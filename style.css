@@ -1,3 +1,10 @@
+.button,
+.button {
+  height: 60px;
+  width: auto;
+  background: lightgreen;
+}
+
 button {
   margin: 10px;
   width: 40px;
